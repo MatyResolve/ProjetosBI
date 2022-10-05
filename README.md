@@ -6,11 +6,11 @@
 
 ### *Faturamento e custos:*
 
-  Ao longo do tempo;
-  Por tipo de Produto;
-  Por Categoria;
-  Por Tamanho;
-  Por Sabor.
+ - Ao longo do tempo;
+ -  Por tipo de Produto;
+ - Por Categoria;
+ - Por Tamanho;
+ - Por Sabor.
 
 
 De forma complementar, apliquei o Princípio de Pareto para descobrir quais sabores contribuem com 80% + do faturamento. Apesar do resultado apresentar um faturamento bem distribuído entre os sabores, nota-se uma contribuição mínima nos sabores "brigadeiro comum, branco e sortido"
